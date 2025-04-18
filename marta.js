@@ -9,6 +9,9 @@
 // @match        https://tracker.itsmarta.com/*
 // @grant        none
 // @license      BSD-2-Clause
+// @downloadURL  https://raw.githubusercontent.com/nathandaven/marta-tracker-userscript/refs/heads/main/marta.js
+// @updateURL    https://raw.githubusercontent.com/nathandaven/marta-tracker-userscript/refs/heads/main/marta.js
+// @homepage     https://github.com/nathandaven/marta-tracker-userscript
 // ==/UserScript==
 
 document.head.innerHTML +=
